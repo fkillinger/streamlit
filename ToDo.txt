@@ -1,0 +1,40 @@
+Study youtube video
+
+https://youtu.be/VqgUkExPvLY?si=NqSfP72Cm506CWaF                   OKAY
+
+https://youtu.be/YClmpnpszq8?si=bB4qcUanbvxO8EaT                   OKAY
+multi page HP
+
+Nachrichten an Web Betreiber senden                                okay
+
+ab minute 11
+HP Farben setzen!                                                  okay
+
+Datenschutz Erklärung dazu bauen!!                                 todo
+
+
+
+
+Remark:
+
+
+Terminate job mit local x im Terminal window
+
+https://github.com/Sven-Bo/personal-website-streamlit/blob/master/app.py
+
+app-nehoody77jyuppbq3aruee
+.streamlit.app
+
+https://share.streamlit.io
+
+video streamlit deployment
+https://youtu.be/B0MUXtmSpiA?si=jji2FOskMMqwx1NQ
+
+wichtig vor deploy ist die Datei:
+requirements.txt
+streamlit==1.29.0
+streamlit-lottie==0.0.5
+requests==2.27.1
+
+GitHub Buch
+GitHub – Eine praktische Einführung: Von den ersten Schritten bis zu eigenen GitHub Actions
