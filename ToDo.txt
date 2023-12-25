@@ -17,6 +17,8 @@ Datenschutz Erklärung dazu bauen!!                                 todo
 
 Remark:
 
+deploy local:
+>> streamlit run 1_Main.py
 
 Terminate job mit local x im Terminal window
 

@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eef062cf-e61d-48ba-8491-78685cf6835c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="eef062cf-e61d-48ba-8491-78685cf6835c" name="Changes" comment="ToDo ist auch Anleitung streamlit to deploy">
       <change beforePath="$PROJECT_DIR$/ToDo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,6 +111,15 @@
       <option name="presentableId" value="Default" />
       <updated>1702911957558</updated>
     </task>
+    <task id="LOCAL-00001" summary="ToDo ist auch Anleitung streamlit to deploy">
+      <option name="closed" value="true" />
+      <created>1703525493483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703525493483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,5 +211,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ToDo ist auch Anleitung streamlit to deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="ToDo ist auch Anleitung streamlit to deploy" />
   </component>
 </project>
