@@ -30,6 +30,17 @@ https://share.streamlit.io
 video streamlit deployment
 https://youtu.be/B0MUXtmSpiA?si=jji2FOskMMqwx1NQ
 
+HP upload files and folders to github
+https://www.entechlog.com/blog/general/how-to-add-existing-folder-to-git/
+
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/fkillinger/streamlit.git
+git remote -v
+git push -f -u origin master
+
+
 wichtig vor deploy ist die Datei:
 requirements.txt
 streamlit==1.29.0
