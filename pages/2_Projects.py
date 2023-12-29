@@ -47,11 +47,23 @@ with st.container():
             &nbsp;&nbsp;&nbsp; (WLAN und Bluetooth)  <br>
             &nbsp;- Handy Programmierung mit MIT Inventor <br>
             &nbsp;- Atemtaktgeber als Schlafhilfe <br>
-            &nbsp;- Präzisionswischer     <br>
+            &nbsp;- Präzisionswischer   <br>
+            &nbsp;- Farbwalzenreiniger  <br>
             &nbsp;- u.a. <br>
             """, unsafe_allow_html=True
         )
 
     with link_column:
         st.subheader("Links zu weiteren Infos:")
-        st.write("[weitere Infos dazu](https://youtu.be/RiG4PpyLAFk?si=PAg3KInr8MSIBIw0)")
+        st.write("[weitere Infos zum Sonnenfolger](https://youtu.be/RiG4PpyLAFk?si=PAg3KInr8MSIBIw0)")
+        st.write("")
+        st.write("[weitere Infos zur Konstruktion](https://www.killinger-consulting.de/film/Konstruktion&SCAD.mp4)")
+        st.write("")
+        st.write("")
+        st.write("[weitere Infos zur APP - Entwicklung](https://www.killinger-consulting.de/film/APP-Entwicklung_MIT-Inventor.mp4)")
+        st.write("")
+        st.write("")
+        st.write("")
+        st.write("")
+        st.write("[weitere Infos zum Wischer](https://www.killinger-consulting.de/film/bodenwischer.mp4)")
+        st.write("[weitere Infos zum Reiniger](https://www.killinger-consulting.de/film/farbwalzenreiniger.mp4)")
