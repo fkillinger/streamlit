@@ -26,7 +26,7 @@ with st.container():
     left_column, right_column = st.columns(2)
     with left_column:
         st.write("#")
-        st.subheader("Killinger Consulting")
+        st.subheader("Killinger Engineering")
     with right_column:
         st_lottie(lottie_coding, height=120, key="coding")
 
@@ -43,8 +43,8 @@ with st.container():
         st.write("##")
         st.write(
             """
-            Killinger Consulting <br>   
-            Fritz killinger <br>   
+            Killinger Engineering <br>   
+            Fritz Killinger <br>   
             Weitzkaut 24 <br>   
             63864 Glattbach <br>            
             Tel 06021 423653 <br>   

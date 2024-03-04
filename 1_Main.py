@@ -42,23 +42,26 @@ with st.container():
 
     with left_column:
         st.write("#")
-        st.title("Killinger Consulting")
+        st.title("Killinger Engineering")
 
     with right_column:
-        st_lottie(lottie_coding, height=160, key="coding")
+        st_lottie(lottie_coding, height=240, key="coding")
 
 # --- what I am doing ---
 with st.container():
-    left_column, image_column, right_column = st.columns([2,1,2])
+    left_column, image_column = st.columns(2)                         # st.columns([2,1])
     with left_column:
-        st.subheader("Unser Beratungsangebot:")
+        st.subheader("Unser Know-how:")
         st.markdown(        #'<p class="big-font">Hello World !!</p>', unsafe_allow_html=True
-            """<p class="font">      
-             &nbsp; - Messtechnik <br>           
-             &nbsp; - Prüftechnik <br>          
-             &nbsp; - Datenbanken <br>
-             &nbsp; - Mikro - Controller Anwendungen <br>
-             &nbsp; - Programmierung <br>
+            """<p class="font">                                           
+             &nbsp; - Datenbanken lokal und Cloud<br>
+             &nbsp; - Mikro - Controller Applikationen <br>
+             &nbsp; - Programmentwicklung Python u.a.<br>
+             &nbsp; - Handy App Entwicklung <br>
+             &nbsp; - Cloud Computing <br>  
+             &nbsp; - 3D Druck Teile Konstruktion <br>   
+             &nbsp; - Dokumentationen <br>   
+             &nbsp; - Erstellung von Expertisen <br>    
             
         Wenn es interessant klingt,
         dann gehen Sie auf das
@@ -69,16 +72,4 @@ with st.container():
         st.write("##")
         st.image(img_kc_form)
 
-    with right_column:
-        st.subheader("Unsere Dienstleistungen:")
-        st.markdown(
-            """<p class="font">  
-              &nbsp;  - Dokumentationen <br>   
-              &nbsp;  - Erstellung von Expertisen <br>  
-              &nbsp;  - Programmierung mit Python  <br> 
-              &nbsp;  - Vorentwicklungen <br>   
-              &nbsp;  - Leiterplattenentwicklung und Entflechtung <br>                     
-              &nbsp;  - CAD für 3D - Druck Modelle <br>   
-              &nbsp;  - Gutachten <br>   
-                """, unsafe_allow_html=True)
 

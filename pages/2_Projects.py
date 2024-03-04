@@ -19,7 +19,7 @@ with st.container():
     left_column, right_column = st.columns(2)
     with left_column:
         st.write("#")
-        st.subheader("Killinger Consulting")
+        st.subheader("Killinger Engineering")
     with right_column:
         st_lottie(lottie_coding, height=120, key="coding")
 
@@ -58,11 +58,9 @@ with st.container():
         st.write("[weitere Infos zum Sonnenfolger](https://youtu.be/RiG4PpyLAFk?si=PAg3KInr8MSIBIw0)")
         st.write("")
         st.write("[weitere Infos zur Konstruktion](https://www.killinger-consulting.de/film/Konstruktion&SCAD.mp4)")
-        st.write("")
+        st.write("[Beispiel zur Wetterdaten - Erfassung mit µC und Cloud DB](https://weatherapp-6hfqptnhx4fvghbvqn2hne.streamlit.app)")
         st.write("")
         st.write("[weitere Infos zur APP - Entwicklung](https://www.killinger-consulting.de/film/APP-Entwicklung_MIT-Inventor.mp4)")
-        st.write("")
-        st.write("")
         st.write("")
         st.write("")
         st.write("[weitere Infos zum Wischer](https://www.killinger-consulting.de/film/bodenwischer.mp4)")

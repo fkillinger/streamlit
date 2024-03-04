@@ -19,7 +19,7 @@ with st.container():
     left_column, right_column = st.columns(2)
     with left_column:
         st.write("##")
-        st.subheader("Killinger Consulting")
+        st.subheader("Killinger Engineering")
     with right_column:
         st_lottie(lottie_coding_main, height=120, key="coding1")
 
