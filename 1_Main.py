@@ -4,7 +4,7 @@ import streamlit as st
 import requests
 from streamlit_lottie import st_lottie
 
-st.set_page_config(page_title="KC Webspace", page_icon=":sun:", layout="wide")
+st.set_page_config(page_title="KE Webspace", page_icon=":sun:", layout="wide")
 st.markdown("""
     <style>
     .font {
